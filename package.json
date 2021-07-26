@@ -1,0 +1,14 @@
+{
+  "name": "the-singleton-pattern-javascript-demo",
+  "version": "1.0.0",
+  "description": "The singleton JavaScript design pattern demo.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joe <contact@joemartagpuno.info>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
